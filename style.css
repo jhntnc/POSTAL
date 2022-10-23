@@ -1,0 +1,36 @@
+DIV img{width: 80PX;
+height: 80px;
+position: absolute;
+top: 10px;
+left: 400PX;}
+
+DIV H1{position: absolute;
+top: 10PX;
+left: 20PX;}
+
+
+#parrafo{position: absolute;
+top: 100PX;
+right: 1000px;
+left: 20px;
+}
+
+form{position: absolute;
+top:  100PX;
+left: 400PX;
+right: 700px;
+border: nome;
+}
+
+input{border: none;
+border-bottom: 1px solid grey;
+}
+
+#boton{top: 250px;
+position: absolute;
+left: 150px;}
+
+
+#center{display: flex;
+flex-direction: row;
+flex-wrap: wrap;}
